@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
   
 env:
-  REPOSITORY: pulpyyyy
+  REPOSITORY: jlachance
   REGISTRY: docker.io
   
 concurrency:
