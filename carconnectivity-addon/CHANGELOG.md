@@ -1,3 +1,12 @@
+## 0.5.17
+
+
+### 🛠️ Fixes & Updates
+
+- **CarConnectivity-connector-volkswagen-na** → [](https://github.com/jlachance/CarConnectivity-connector-volkswagen-na.git)
+
+ --- 
+
 ## 0.5.16
 
 
