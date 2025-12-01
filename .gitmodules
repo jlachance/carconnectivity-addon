@@ -33,7 +33,7 @@
 	url = https://github.com/acfischer42/CarConnectivity-connector-audi
 [submodule "CarConnectivity-connector-volkswagen-na"]
 	path = CarConnectivity-connector-volkswagen-na
-	url = https://github.com/zackcornelius/CarConnectivity-connector-volkswagen-na
+	url = https://github.com/jlachance/CarConnectivity-connector-volkswagen-na.git
 [submodule "CarConnectivity-connector-volkswagen-ca"]
 	path = CarConnectivity-connector-volkswagen-ca
 	url = https://github.com/jlachance/CarConnectivity-connector-volkswagen-ca.git
