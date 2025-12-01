@@ -1,5 +1,5 @@
 {
   "name": "Home Assistant Add-on: CarConnectivity",
-  "url": "https://github.com/Pulpyyyy/carconnectivity-addon",
-  "maintainer": "Pulpyyyy"
+  "url": "https://github.com/jlachance/carconnectivity-addon.git",
+  "maintainer": "jlachance"
 }
